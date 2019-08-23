@@ -588,7 +588,6 @@
   "model": "destinations.destination",
   "fields": {
     "name": "simple-endpoint",
-    "url": "https://example.org",
     "enabled": true
   }
 },
