@@ -592,6 +592,17 @@
   }
 },
 {
+  "model": "actions.action",
+  "fields": {
+    "api_module": "handlers",
+    "api_class": "RestAPI",
+    "visa_required": false,
+    "platform": ["simple-endpoint"],
+    "title": "REST API",
+    "description": "Send a REST API"
+  }
+},
+{
   "model": "bottles.bottlefield",
   "fields": {
     "field_name": "@timestamp",
